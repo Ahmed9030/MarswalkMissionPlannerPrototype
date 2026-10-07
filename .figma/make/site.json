@@ -1,0 +1,10 @@
+{
+  "description": "Plan Mars surface missions by selecting routes based on terrain, risk, and scientific value with interactive maps and detailed mission analysis.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
